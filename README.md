@@ -1,8 +1,11 @@
 <div align="center">
 
 <!-- Animated Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=GenAI%20%26%20Agentic%20Explorer&fontSize=48&fontColor=00d4ff&fontAlignY=38&desc=Learning%20%E2%80%A2%20Exploring%20%E2%80%A2%20Building%20with%20LangChain%20%26%20LangGraph&descAlignY=58&descSize=17&descFontColor=a0aec0&animation=fadeIn" width="100%"/>
-
+<img 
+src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=GenAI%20%26%20Agentic%20Explorer&fontSize=48&fontColor=00d4ff&fontAlignY=38&desc=Learning%20%E2%80%A2%20Exploring%20%E2%80%A2%20Building%20with%20LangChain%20%26%20LangGraph&descAlignY=58&descSize=17&descFontColor=a0aec0&animation=fadeIn"
+width="100%"
+alt="GenAI & Agentic Explorer Banner"
+/>
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=70&lines=Exploring+Generative+AI+%26+Agentic+Systems;LangChain+%7C+LangGraph+%7C+RAG+%7C+Deep+Agents;A+10%2B+Hour+Learning+Journey" alt="Typing SVG" />
