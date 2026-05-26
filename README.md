@@ -1,271 +1,336 @@
 <div align="center">
 
-<!-- Animated Banner -->
-<p align="center">
-  <img 
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=GenAI%20%26%20Agentic%20Explorer&fontSize=48&fontColor=00d4ff&fontAlignY=38&desc=Learning%20%E2%80%A2%20Exploring%20%E2%80%A2%20Building%20with%20LangChain%20%26%20LangGraph&descAlignY=58&descSize=17&descFontColor=a0aec0&animation=fadeIn"
-    width="100%"
-    alt="GenAI Banner"
-  />
-</p>
-<!-- Typing Animation -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=70&lines=Exploring+Generative+AI+%26+Agentic+Systems;LangChain+%7C+LangGraph+%7C+RAG+%7C+Deep+Agents;A+10%2B+Hour+Learning+Journey" alt="Typing SVG" />
-</a>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a1a,30:0d1b4b,60:0a2a6b,100:00d4ff&height=260&section=header&text=GenAI%20%26%20Agentic%20Mastery&fontSize=54&fontColor=ffffff&fontAlignY=40&desc=LangChain%20%7C%20LangGraph%20%7C%20RAG%20%7C%20Deep%20Agents%20%7C%20LLM%20Evaluation&descAlignY=60&descSize=18&descColor=a0e4ff&animation=twinkling" width="100%" />
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2500&pause=1000&color=00D4FF&background=00000000&center=true&vCenter=true&multiline=false&width=750&lines=🤖+Exploring+Generative+AI+%26+Agentic+Systems;🔗+LangChain+%7C+LangGraph+%7C+RAG+Pipelines;🧠+Deep+Agents+%7C+Guardrails+%7C+LLM+Evaluation;🚀+10%2B+Hour+Structured+Learning+Journey" alt="Typing SVG" />
 
 <br/><br/>
 
-<!-- Core Badges -->
-[![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
-[![LangChain](https://img.shields.io/badge/LangChain-v0.3-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white)](https://langchain.com)
-[![LangGraph](https://img.shields.io/badge/LangGraph-Agentic-6B46C1?style=for-the-badge&logo=graphql&logoColor=white)](https://langchain-ai.github.io/langgraph/)
-[![OpenAI](https://img.shields.io/badge/OpenAI-GPT--4-412991?style=for-the-badge&logo=openai&logoColor=white)](https://openai.com)
+<a href="https://python.org"><img src="https://img.shields.io/badge/Python-3.10%2B-3776AB?style=for-the-badge&logo=python&logoColor=white" /></a>
+<a href="https://langchain.com"><img src="https://img.shields.io/badge/LangChain-v0.3-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" /></a>
+<a href="https://langchain-ai.github.io/langgraph/"><img src="https://img.shields.io/badge/LangGraph-Agentic-6B46C1?style=for-the-badge&logo=graphql&logoColor=white" /></a>
+<a href="https://openai.com"><img src="https://img.shields.io/badge/OpenAI-GPT--4-412991?style=for-the-badge&logo=openai&logoColor=white" /></a>
 
-<!-- Status Badges -->
-[![License](https://img.shields.io/badge/License-MIT-22c55e?style=flat-square)](LICENSE)
-[![Learning](https://img.shields.io/badge/Status-Learning%20%26%20Exploring-00d4ff?style=flat-square&logo=bookstack&logoColor=white)]()
-[![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-ec4899?style=flat-square&logo=git)](CONTRIBUTING.md)
-[![Notebooks](https://img.shields.io/badge/Jupyter-Notebooks-F37626?style=flat-square&logo=jupyter&logoColor=white)]()
-[![YouTube](https://img.shields.io/badge/YouTube-Reference%20Course-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=rV3HJ4LEZ7k)
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Status-Actively%20Learning-00d4ff?style=flat-square&logo=bookstack&logoColor=white" />
+<img src="https://img.shields.io/badge/License-MIT-22c55e?style=flat-square" />
+<img src="https://img.shields.io/badge/PRs-Welcome-ec4899?style=flat-square&logo=git" />
+<img src="https://img.shields.io/badge/Notebooks-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" />
+<a href="https://www.youtube.com/watch?v=rV3HJ4LEZ7k"><img src="https://img.shields.io/badge/▶%20Reference%20Course-FF0000?style=flat-square&logo=youtube&logoColor=white" /></a>
 
 </div>
 
 ---
 
-## 📖 About This Repository
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
-> 🌱 **A personal learning space for Generative AI & Agentic systems** — documenting my exploration of LangChain, LangGraph, RAG pipelines, Deep Agents, Guardrails, LLM Evaluation, and Gateway techniques.
+## 🌌 About This Repository
 
-This repo follows a structured 10+ hour curriculum, with hands-on notebooks, notes, and experiments as I work through each topic. It's a space to **learn by doing** — every module includes working code, reflections, and experiments.
+> **A personal deep-dive into Generative AI & Agentic systems** — hands-on notebooks, annotated experiments, and structured notes covering the full GenAI engineering stack.
+
+This repo follows a **10+ hour structured curriculum** — every module includes working code, personal reflections, and experiments. The philosophy: **learn by building**, not just watching.
+
+```
+📖 Learning Path: LangChain → RAG → LangGraph → Deep Agents → Guardrails → Evaluation → Gateways
+```
 
 ---
 
 ## 🗂️ Module Index
 
-| Module | Topic | Status |
-|--------|-------|--------|
-| 🔗 **LangChain** | Chains, Agents, Memory, Tools | 📘 Exploring |
-| 🕸️ **LangGraph** | Stateful Agentic Workflows | 📘 Exploring |
-| 📚 **RAG** | Retrieval-Augmented Generation | 📘 Exploring |
-| 🚫 **Vectorless RAG** | PageIndex & Beyond Vectors | 📘 Exploring |
-| 🤖 **Deep Agents** | Advanced Multi-Agent Systems | 📘 Exploring |
-| 🛡️ **Guardrails** | LLM Safety & Output Control | 📘 Exploring |
-| 📊 **LLM Evaluation** | RAG Eval, RAGAS, Metrics | 📘 Exploring |
-| 🔀 **LLM Gateways** | Routing, Rate Limiting, Proxies | 📘 Exploring |
-
----
-
-
-## 🚀 Modules at a Glance
-
-<details>
-<summary><b>🔗 Module 1 — LangChain</b> </summary>
-
-**Topics I'm Learning:**
-- LangChain Expression Language (LCEL)
-- Chains, Agents, and Tool Use
-- Memory & Conversation Management
-- Prompt Templates & Output Parsers
-- Document Loaders & Text Splitters
-- Vector Stores & Retrievers
-
-**Tech Stack:**
-![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square&logo=chainlink)
-![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=openai)
-![FAISS](https://img.shields.io/badge/-FAISS-0095D5?style=flat-square)
-![Chroma](https://img.shields.io/badge/-ChromaDB-FF6B35?style=flat-square)
-
-```bash
-# Clone this repo and navigate to the module
-git clone https://github.com/YOUR_USERNAME/genai-agentic-explorer
-cd genai-agentic-explorer/langchain
-pip install -r requirements.txt
-```
-</details>
-
-<details>
-<summary><b>🕸️ Module 2 — LangGraph</b> 
-</summary>
-
-**Topics I'm Learning:**
-- Graph-based Agentic Architecture
-- Stateful Workflows with Checkpointing
-- Multi-Agent Collaboration Patterns
-- Conditional Edges & Human-in-the-Loop
-- Supervisor & Hierarchical Agents
-- Tool Nodes & Custom State Schemas
-
-**Tech Stack:**
-![LangGraph](https://img.shields.io/badge/-LangGraph-6B46C1?style=flat-square&logo=graphql)
-![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square)
-![Tavily](https://img.shields.io/badge/-Tavily-00B4D8?style=flat-square)
-
-```bash
-cd genai-agentic-explorer/langgraph
-pip install -r requirements.txt
-```
-</details>
-
-<details>
-<summary><b>📚 Module 3 — RAG (Retrieval-Augmented Generation)</b> 
-</summary>
-
-**Topics I'm Learning:**
-- Naive RAG → Advanced RAG Pipeline
-- Hybrid Search (Dense + Sparse)
-- Re-ranking with Cross-Encoders
-- Parent-Child Chunking Strategies
-- Query Expansion & Routing
-- Corrective RAG & Self-RAG
-
-**Tech Stack:**
-![FAISS](https://img.shields.io/badge/-FAISS-0095D5?style=flat-square)
-![Pinecone](https://img.shields.io/badge/-Pinecone-000000?style=flat-square)
-![HuggingFace](https://img.shields.io/badge/-HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-
-```bash
-cd genai-agentic-explorer/rag
-pip install -r requirements.txt
-```
-</details>
-
-<details>
-<summary><b>🚫 Module 4 — Vectorless RAG</b> (07:10:43)</summary>
-
-**Topics I'm Learning:**
-- PageIndex-based Document Retrieval
-- BM25 & Keyword-Only Retrieval
-- Structured Data Retrieval without Embeddings
-- SQL Agents & Text-to-SQL
-- Graph-based Knowledge Retrieval
-
-**Why Vectorless?**
-> Embeddings aren't always the answer. This module explores when and how to build RAG systems without vector databases — saving cost and latency while maintaining accuracy.
-</details>
-
-<details>
-<summary><b>🤖 Module 5 — Deep Agents</b> (08:02:11)</summary>
-
-**Topics I'm Learning:**
-- ReAct, CoT, and ToT Agent Frameworks
-- Tool-Calling & Function Agents
-- Planning Agents (LLM Planner + Executor)
-- Memory-Augmented Agents
-- Multi-Modal Agent Architectures
-- Production Deployment Patterns
-
-**My Notes:**
-> Deep Agents push LLMs from single-shot responders to multi-step, tool-using reasoners. This is where things get really interesting.
-</details>
-
-<details>
-<summary><b>🛡️ Module 6 — Guardrails</b> (08:45:43)</summary>
-
-**Topics I'm Learning:**
-- Input & Output Validation with NeMo Guardrails
-- Prompt Injection Defense
-- Toxicity & PII Detection
-- Constitutional AI Principles
-- LangChain Guardrails Integration
-- Custom Guardrail Rule Engines
-
-**Tech Stack:**
-![NeMo](https://img.shields.io/badge/-NeMo_Guardrails-76B900?style=flat-square&logo=nvidia)
-![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square)
-</details>
-
-<details>
-<summary><b>📊 Module 7 — LLM Evaluation</b> (09:22:55)</summary>
-
-**Topics I'm Learning:**
-- RAGAS Framework (Faithfulness, Relevancy, Context Recall)
-- LangSmith Tracing & Evaluation
-- Automated LLM Judges
-- Human Evaluation Pipelines
-- A/B Testing LLM Outputs
-- Benchmark Construction
-
-**Tech Stack:**
-![RAGAS](https://img.shields.io/badge/-RAGAS-FF4B4B?style=flat-square)
-![LangSmith](https://img.shields.io/badge/-LangSmith-1C3C3C?style=flat-square)
-![DeepEval](https://img.shields.io/badge/-DeepEval-4A90D9?style=flat-square)
-</details>
-
-<details>
-<summary><b>🔀 Module 8 — LLM Gateways</b> (10:30:25)</summary>
-
-**Topics I'm Learning:**
-- LiteLLM Gateway Setup & Configuration
-- Provider Routing (OpenAI, Anthropic, Groq, Cohere)
-- Rate Limiting, Retries & Fallbacks
-- Cost Tracking & Budget Management
-- Load Balancing Across Model Providers
-- API Key Management & Security
-
-**Tech Stack:**
-![LiteLLM](https://img.shields.io/badge/-LiteLLM-FF6B35?style=flat-square)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-</details>
-
----
-
-## 🛠️ Tech Stack Overview
-
 <div align="center">
 
-| Layer | Technologies |
-|-------|-------------|
-| **LLM Providers** | ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai) ![Anthropic](https://img.shields.io/badge/Anthropic-Claude-191919?style=flat-square) ![Groq](https://img.shields.io/badge/Groq-F55036?style=flat-square) |
-| **Frameworks** | ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square) ![LangGraph](https://img.shields.io/badge/LangGraph-6B46C1?style=flat-square) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi) |
-| **Vector DBs** | ![FAISS](https://img.shields.io/badge/FAISS-0095D5?style=flat-square) ![Chroma](https://img.shields.io/badge/ChromaDB-FF6B35?style=flat-square) ![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat-square) |
-| **Evaluation** | ![RAGAS](https://img.shields.io/badge/RAGAS-FF4B4B?style=flat-square) ![LangSmith](https://img.shields.io/badge/LangSmith-1C3C3C?style=flat-square) |
-| **DevOps** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions) |
-| **Notebooks** | ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) ![Colab](https://img.shields.io/badge/Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=black) |
+| # | Module | Focus Areas | Status |
+|:-:|:-------|:------------|:------:|
+| 01 | 🔗 **LangChain** | Chains, Agents, Memory, Tools, LCEL | `📘 Exploring` |
+| 02 | 🕸️ **LangGraph** | Stateful Agentic Workflows, Multi-Agent | `📘 Exploring` |
+| 03 | 📚 **RAG** | Naive → Advanced → Corrective RAG | `📘 Exploring` |
+| 04 | 🚫 **Vectorless RAG** | BM25, SQL Agents, Graph Retrieval | `📘 Exploring` |
+| 05 | 🤖 **Deep Agents** | ReAct, CoT, Planning, Memory Agents | `📘 Exploring` |
+| 06 | 🛡️ **Guardrails** | Safety, PII Detection, Prompt Injection | `📘 Exploring` |
+| 07 | 📊 **LLM Evaluation** | RAGAS, LangSmith, Automated Judges | `📘 Exploring` |
+| 08 | 🔀 **LLM Gateways** | LiteLLM, Routing, Rate Limits, Cost | `📘 Exploring` |
 
 </div>
 
 ---
 
-## ⚙️ Getting Started
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
-### Prerequisites
+## 🚀 Module Deep Dives
+
+<details>
+<summary><b>🔗 Module 01 — LangChain &nbsp;&nbsp;<code>Chains · Agents · Memory · Tools</code></b></summary>
+
+<br/>
+
+**What I'm learning:**
+
+| Topic | Description |
+|:------|:------------|
+| **LCEL** | LangChain Expression Language — composing chains declaratively |
+| **Agents & Tools** | Building tool-calling agents with custom & built-in tools |
+| **Memory** | Conversation buffer, summary memory, entity memory |
+| **Prompt Templates** | FewShot, ChatPromptTemplate, output parsers |
+| **Document Loaders** | PDF, web, CSV loaders & text splitters |
+| **Vector Stores** | FAISS & ChromaDB — embed, store, retrieve |
+
+**Tech Stack:**
+
+![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square&logo=chainlink)
+![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=openai)
+![FAISS](https://img.shields.io/badge/-FAISS-0095D5?style=flat-square)
+![ChromaDB](https://img.shields.io/badge/-ChromaDB-FF6B35?style=flat-square)
 
 ```bash
-Python >= 3.10
-pip or conda
-Git
+cd langchain && pip install -r requirements.txt
 ```
 
-### Installation
+</details>
+
+---
+
+<details>
+<summary><b>🕸️ Module 02 — LangGraph &nbsp;&nbsp;<code>Stateful · Multi-Agent · Supervisors</code></b></summary>
+
+<br/>
+
+**What I'm learning:**
+
+| Topic | Description |
+|:------|:------------|
+| **Graph Architecture** | Nodes, edges, state schemas |
+| **Checkpointing** | Stateful workflows with persistent memory |
+| **Multi-Agent** | Collaboration patterns between specialized agents |
+| **Conditional Edges** | Dynamic routing based on agent decisions |
+| **Supervisor Pattern** | Hierarchical agent orchestration |
+| **Human-in-the-Loop** | Approval gates and human feedback |
+
+**Tech Stack:**
+
+![LangGraph](https://img.shields.io/badge/-LangGraph-6B46C1?style=flat-square&logo=graphql)
+![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square)
+![Tavily](https://img.shields.io/badge/-Tavily-00B4D8?style=flat-square)
 
 ```bash
-# 1. Clone this repo
-git clone https://github.com/saifullah857/GenAI-Agentic-Mastery.git
-cd Langchainupdated
+cd langgraph && pip install -r requirements.txt
+```
 
-# 2. Create a virtual environment
+</details>
+
+---
+
+<details>
+<summary><b>📚 Module 03 — RAG &nbsp;&nbsp;<code>Naive → Advanced → Self-RAG</code></b></summary>
+
+<br/>
+
+**What I'm learning:**
+
+| Topic | Description |
+|:------|:------------|
+| **Naive RAG** | Baseline: load → chunk → embed → retrieve → generate |
+| **Hybrid Search** | Dense (embeddings) + Sparse (BM25) fusion |
+| **Re-ranking** | Cross-encoder reranking for precision |
+| **Advanced Chunking** | Parent-child, semantic, sliding window strategies |
+| **Query Expansion** | HyDE, step-back prompting, multi-query |
+| **Corrective / Self-RAG** | Retrieval grading, fallback, self-reflection |
+
+**Tech Stack:**
+
+![FAISS](https://img.shields.io/badge/-FAISS-0095D5?style=flat-square)
+![Pinecone](https://img.shields.io/badge/-Pinecone-000000?style=flat-square)
+![HuggingFace](https://img.shields.io/badge/-HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+
+```bash
+cd rag && pip install -r requirements.txt
+```
+
+</details>
+
+---
+
+<details>
+<summary><b>🚫 Module 04 — Vectorless RAG &nbsp;&nbsp;<code>Beyond Embeddings</code></b></summary>
+
+<br/>
+
+**Why Vectorless?**
+
+> Embeddings aren't always the answer. This module explores when and how to build retrieval systems without vector databases — saving cost and latency while maintaining accuracy.
+
+**What I'm learning:**
+
+- **PageIndex-based** document retrieval
+- **BM25 & TF-IDF** — keyword-only retrieval pipelines
+- **Structured Data Retrieval** — querying without embeddings
+- **SQL Agents & Text-to-SQL** — natural language over relational data
+- **Knowledge Graph Retrieval** — graph-based context fetching
+
+</details>
+
+---
+
+<details>
+<summary><b>🤖 Module 05 — Deep Agents &nbsp;&nbsp;<code>ReAct · Planning · Multi-Modal</code></b></summary>
+
+<br/>
+
+**What I'm learning:**
+
+| Framework | Description |
+|:----------|:------------|
+| **ReAct** | Reason + Act loops — the backbone of most agents |
+| **CoT / ToT** | Chain-of-Thought & Tree-of-Thought reasoning |
+| **Planning Agents** | LLM Planner + Executor separation |
+| **Memory-Augmented** | Long-term episodic + semantic agent memory |
+| **Multi-Modal** | Agents that reason over images & documents |
+| **Production Patterns** | Error handling, retries, observability |
+
+> *Deep Agents push LLMs from single-shot responders to multi-step, tool-using reasoners. This is where things get truly interesting.*
+
+</details>
+
+---
+
+<details>
+<summary><b>🛡️ Module 06 — Guardrails &nbsp;&nbsp;<code>Safety · PII · Injection Defense</code></b></summary>
+
+<br/>
+
+**What I'm learning:**
+
+- **Input & Output Validation** with NeMo Guardrails
+- **Prompt Injection Defense** — jailbreak detection & mitigation
+- **Toxicity & PII Detection** — protecting users and data
+- **Constitutional AI** — principle-guided output shaping
+- **LangChain Integration** — guardrails as chain components
+- **Custom Rule Engines** — domain-specific safety layers
+
+**Tech Stack:**
+
+![NeMo](https://img.shields.io/badge/-NeMo_Guardrails-76B900?style=flat-square&logo=nvidia)
+![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square)
+
+</details>
+
+---
+
+<details>
+<summary><b>📊 Module 07 — LLM Evaluation &nbsp;&nbsp;<code>RAGAS · LangSmith · Judges</code></b></summary>
+
+<br/>
+
+**What I'm learning:**
+
+| Metric / Tool | Purpose |
+|:-------------|:--------|
+| **RAGAS** | Faithfulness, Answer Relevancy, Context Recall |
+| **LangSmith** | Tracing, debugging, A/B evaluation |
+| **DeepEval** | Unit-test style LLM evaluation |
+| **LLM-as-Judge** | Automated GPT-4 evaluation pipelines |
+| **Human Eval** | Structured human annotation frameworks |
+| **Benchmark Design** | Building domain-specific eval sets |
+
+**Tech Stack:**
+
+![RAGAS](https://img.shields.io/badge/-RAGAS-FF4B4B?style=flat-square)
+![LangSmith](https://img.shields.io/badge/-LangSmith-1C3C3C?style=flat-square)
+![DeepEval](https://img.shields.io/badge/-DeepEval-4A90D9?style=flat-square)
+
+</details>
+
+---
+
+<details>
+<summary><b>🔀 Module 08 — LLM Gateways &nbsp;&nbsp;<code>LiteLLM · Routing · Cost Control</code></b></summary>
+
+<br/>
+
+**What I'm learning:**
+
+| Feature | Description |
+|:--------|:------------|
+| **LiteLLM Setup** | Unified gateway for all major LLM providers |
+| **Provider Routing** | OpenAI → Anthropic → Groq → Cohere fallbacks |
+| **Rate Limiting** | Per-user, per-model quota management |
+| **Cost Tracking** | Real-time budget monitoring and alerts |
+| **Load Balancing** | Distribute load across model endpoints |
+| **API Key Security** | Scoped keys and usage auditing |
+
+**Tech Stack:**
+
+![LiteLLM](https://img.shields.io/badge/-LiteLLM-FF6B35?style=flat-square)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+```bash
+cd llm_gateways && docker-compose up
+```
+
+</details>
+
+---
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+
+## 🛠️ Full Tech Stack
+
+<div align="center">
+
+| Layer | Technologies |
+|:------|:------------|
+| **LLM Providers** | ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai) ![Anthropic](https://img.shields.io/badge/Anthropic_Claude-191919?style=flat-square) ![Groq](https://img.shields.io/badge/Groq-F55036?style=flat-square) ![Cohere](https://img.shields.io/badge/Cohere-39594D?style=flat-square) |
+| **Frameworks** | ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square) ![LangGraph](https://img.shields.io/badge/LangGraph-6B46C1?style=flat-square) ![LiteLLM](https://img.shields.io/badge/LiteLLM-FF6B35?style=flat-square) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi) |
+| **Vector Stores** | ![FAISS](https://img.shields.io/badge/FAISS-0095D5?style=flat-square) ![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B35?style=flat-square) ![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat-square) |
+| **Evaluation** | ![RAGAS](https://img.shields.io/badge/RAGAS-FF4B4B?style=flat-square) ![LangSmith](https://img.shields.io/badge/LangSmith-1C3C3C?style=flat-square) ![DeepEval](https://img.shields.io/badge/DeepEval-4A90D9?style=flat-square) |
+| **Safety** | ![NeMo](https://img.shields.io/badge/NeMo_Guardrails-76B900?style=flat-square&logo=nvidia) |
+| **DevOps** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions) |
+| **Notebooks** | ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter) ![Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=black) |
+
+</div>
+
+---
+
+## ⚙️ Quick Start
+
+### Prerequisites
+```bash
+Python >= 3.10  |  pip  |  Git
+```
+
+### Setup
+```bash
+# 1. Clone
+git clone https://github.com/saifullah857/GenAI-Agentic-Mastery.git
+cd GenAI-Agentic-Mastery
+
+# 2. Virtual environment
 python -m venv venv
-source venv/bin/activate        # macOS/Linux
-venv\Scripts\activate           # Windows
+source venv/bin/activate          # macOS / Linux
+venv\Scripts\activate             # Windows
 
 # 3. Install dependencies
 pip install -r requirements.txt
 
-# 4. Set up environment variables
+# 4. Configure API keys
 cp .env.example .env
-# Edit .env and add your API keys:
-# OPENAI_API_KEY=sk-...
-# ANTHROPIC_API_KEY=sk-ant-...
-# GROQ_API_KEY=gsk_...
-# LANGCHAIN_API_KEY=ls_...
 ```
 
-### Running Notebooks
+`.env` template:
+```env
+OPENAI_API_KEY=sk-...
+ANTHROPIC_API_KEY=sk-ant-...
+GROQ_API_KEY=gsk_...
+LANGCHAIN_API_KEY=ls_...
+TAVILY_API_KEY=tvly-...
+```
 
+### Run Notebooks
 ```bash
-jupyter notebook
-# or
 jupyter lab
 ```
 
@@ -274,27 +339,33 @@ jupyter lab
 ## 📁 Project Structure
 
 ```
-📦 genai-agentic-explorer/
+📦 GenAI-Agentic-Mastery/
+│
 ├── 🔗 langchain/
-│   ├── chains/
-│   ├── agents/
-│   ├── memory/
-│   └── tools/
+│   ├── chains/            ← LCEL, sequential, parallel chains
+│   ├── agents/            ← tool-calling & ReAct agents
+│   ├── memory/            ← buffer, summary, entity memory
+│   └── tools/             ← custom tools & toolkits
+│
 ├── 🕸️  langgraph/
-│   ├── simple_agents/
-│   ├── multi_agent/
-│   └── supervisor/
+│   ├── simple_agents/     ← single-node graph agents
+│   ├── multi_agent/       ← collaboration patterns
+│   └── supervisor/        ← hierarchical orchestration
+│
 ├── 📚 rag/
-│   ├── naive_rag/
-│   ├── advanced_rag/
-│   └── vectorless_rag/
+│   ├── naive_rag/         ← baseline pipeline
+│   ├── advanced_rag/      ← hybrid search, reranking
+│   └── vectorless_rag/    ← BM25, SQL agents, graphs
+│
 ├── 🤖 deep_agents/
-│   ├── react_agents/
-│   └── planning_agents/
-├── 🛡️  guardrails/
-├── 📊 llm_evaluation/
-├── 🔀 llm_gateways/
-├── notes/                  ← personal learning notes
+│   ├── react_agents/      ← ReAct, CoT, ToT
+│   └── planning_agents/   ← planner + executor
+│
+├── 🛡️  guardrails/         ← NeMo integration, rule engines
+├── 📊 llm_evaluation/     ← RAGAS, LangSmith, DeepEval
+├── 🔀 llm_gateways/       ← LiteLLM, Docker setup
+│
+├── 📝 notes/              ← personal learning notes per module
 ├── .env.example
 ├── requirements.txt
 └── README.md
@@ -302,62 +373,72 @@ jupyter lab
 
 ---
 
-## 🗺️ My Learning Roadmap
+## 🗺️ Learning Roadmap
 
 ```mermaid
 graph LR
-    A[🐍 Python Basics] --> B[🔗 LangChain]
-    B --> C[📚 RAG Fundamentals]
+    A[🐍 Python] --> B[🔗 LangChain]
+    B --> C[📚 RAG]
     C --> D[🚫 Vectorless RAG]
     B --> E[🕸️ LangGraph]
     E --> F[🤖 Deep Agents]
     F --> G[🛡️ Guardrails]
     G --> H[📊 LLM Evaluation]
     H --> I[🔀 LLM Gateways]
-    I --> J[🚀 Production AI Systems]
+    I --> J[🚀 Production AI]
+
+    style A fill:#3776AB,color:#fff
+    style B fill:#1C3C3C,color:#fff
+    style E fill:#6B46C1,color:#fff
+    style F fill:#1a1a2e,color:#00d4ff
+    style J fill:#00d4ff,color:#000
 ```
 
 ---
 
 ## 🤝 Contributing
 
-Ideas, improvements, and discussions are always welcome!
+Discussions, corrections, and experiments are welcome!
 
 ```bash
-# Fork → Clone → Branch → Commit → Push → Pull Request
 git checkout -b feature/your-idea
-git commit -m "feat: Add your idea"
+git commit -m "feat: add your idea"
 git push origin feature/your-idea
+# → open a Pull Request
 ```
 
 ---
 
 ## 📜 License
 
-This project is licensed under the **MIT License** — see the [LICENSE](LICENSE) file for details.
+**MIT License** — see [LICENSE](LICENSE) for details. Free to use, learn from, and build on.
 
 ---
 
 ## 🙌 Acknowledgements
 
-- [LangChain](https://langchain.com) — The foundational agentic framework
-- [LangGraph](https://langchain-ai.github.io/langgraph/) — Stateful agent orchestration
-- [RAGAS](https://docs.ragas.io/) — RAG evaluation framework
-- [LiteLLM](https://litellm.ai/) — Unified LLM gateway
-- [NeMo Guardrails](https://github.com/NVIDIA/NeMo-Guardrails) — LLM safety toolkit
+| Resource | Description |
+|:---------|:------------|
+| [LangChain](https://langchain.com) | The foundational agentic AI framework |
+| [LangGraph](https://langchain-ai.github.io/langgraph/) | Stateful graph-based agent orchestration |
+| [RAGAS](https://docs.ragas.io/) | RAG evaluation metrics & framework |
+| [LiteLLM](https://litellm.ai/) | Unified gateway for all LLM providers |
+| [NeMo Guardrails](https://github.com/NVIDIA/NeMo-Guardrails) | NVIDIA's LLM safety toolkit |
 
 ---
 
 <div align="center">
 
-[![YouTube Reference](https://img.shields.io/badge/▶_Reference_Course-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=rV3HJ4LEZ7k)
+<a href="https://www.youtube.com/watch?v=rV3HJ4LEZ7k">
+  <img src="https://img.shields.io/badge/▶%20Watch%20Reference%20Course-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+</a>
 
-<br/>
+<br/><br/>
 
 *Learning one module at a time — feel free to follow along!* 🌱
 
-**⭐ Star this repo if it helps your learning journey too!**
+**⭐ Star this repo if it helps your learning journey!**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d1117&height=120&section=footer&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,50:0a2a6b,100:0a0a1a&height=140&section=footer&animation=twinkling" width="100%" />
 
 </div>
