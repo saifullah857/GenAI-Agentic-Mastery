@@ -1,0 +1,75 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 260" width="1200" height="260">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0a0a1a"/>
+      <stop offset="30%" style="stop-color:#0d1b4b"/>
+      <stop offset="60%" style="stop-color:#0a2a6b"/>
+      <stop offset="100%" style="stop-color:#003d7a"/>
+    </linearGradient>
+    <linearGradient id="waveGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#00d4ff;stop-opacity:0.6"/>
+      <stop offset="50%" style="stop-color:#0066cc;stop-opacity:0.4"/>
+      <stop offset="100%" style="stop-color:#00d4ff;stop-opacity:0.6"/>
+    </linearGradient>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="3" result="coloredBlur"/>
+      <feMerge><feMergeNode in="coloredBlur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <!-- Background -->
+  <rect width="1200" height="260" fill="url(#bgGrad)"/>
+
+  <!-- Stars -->
+  <g opacity="0.7">
+    <circle cx="80" cy="30" r="1.5" fill="#ffffff"><animate attributeName="opacity" values="0.3;1;0.3" dur="2.1s" repeatCount="indefinite"/></circle>
+    <circle cx="200" cy="50" r="1" fill="#00d4ff"><animate attributeName="opacity" values="0.5;1;0.5" dur="1.7s" repeatCount="indefinite"/></circle>
+    <circle cx="350" cy="20" r="1.5" fill="#ffffff"><animate attributeName="opacity" values="0.2;0.9;0.2" dur="2.5s" repeatCount="indefinite"/></circle>
+    <circle cx="500" cy="40" r="1" fill="#00d4ff"><animate attributeName="opacity" values="0.4;1;0.4" dur="1.9s" repeatCount="indefinite"/></circle>
+    <circle cx="700" cy="15" r="1.5" fill="#ffffff"><animate attributeName="opacity" values="0.3;1;0.3" dur="2.3s" repeatCount="indefinite"/></circle>
+    <circle cx="900" cy="35" r="1" fill="#00d4ff"><animate attributeName="opacity" values="0.5;1;0.5" dur="1.6s" repeatCount="indefinite"/></circle>
+    <circle cx="1050" cy="25" r="1.5" fill="#ffffff"><animate attributeName="opacity" values="0.2;0.8;0.2" dur="2.8s" repeatCount="indefinite"/></circle>
+    <circle cx="1150" cy="45" r="1" fill="#00d4ff"><animate attributeName="opacity" values="0.4;1;0.4" dur="2s" repeatCount="indefinite"/></circle>
+    <circle cx="150" cy="80" r="1" fill="#a0e4ff"><animate attributeName="opacity" values="0.3;0.9;0.3" dur="2.2s" repeatCount="indefinite"/></circle>
+    <circle cx="450" cy="70" r="1.5" fill="#ffffff"><animate attributeName="opacity" values="0.2;1;0.2" dur="1.8s" repeatCount="indefinite"/></circle>
+    <circle cx="750" cy="60" r="1" fill="#a0e4ff"><animate attributeName="opacity" values="0.5;1;0.5" dur="2.4s" repeatCount="indefinite"/></circle>
+    <circle cx="1000" cy="75" r="1.5" fill="#ffffff"><animate attributeName="opacity" values="0.3;0.9;0.3" dur="2s" repeatCount="indefinite"/></circle>
+  </g>
+
+  <!-- Wave bottom decoration -->
+  <path d="M0,220 C200,190 400,240 600,210 C800,180 1000,230 1200,200 L1200,260 L0,260 Z" fill="url(#waveGrad)" opacity="0.3">
+    <animate attributeName="d" 
+      values="M0,220 C200,190 400,240 600,210 C800,180 1000,230 1200,200 L1200,260 L0,260 Z;
+              M0,210 C200,230 400,200 600,220 C800,240 1000,210 1200,225 L1200,260 L0,260 Z;
+              M0,220 C200,190 400,240 600,210 C800,180 1000,230 1200,200 L1200,260 L0,260 Z"
+      dur="6s" repeatCount="indefinite"/>
+  </path>
+  <path d="M0,235 C300,215 600,245 900,225 C1050,215 1150,235 1200,230 L1200,260 L0,260 Z" fill="#00d4ff" opacity="0.15">
+    <animate attributeName="d"
+      values="M0,235 C300,215 600,245 900,225 C1050,215 1150,235 1200,230 L1200,260 L0,260 Z;
+              M0,228 C300,240 600,225 900,238 C1050,245 1150,228 1200,235 L1200,260 L0,260 Z;
+              M0,235 C300,215 600,245 900,225 C1050,215 1150,235 1200,230 L1200,260 L0,260 Z"
+      dur="4s" repeatCount="indefinite"/>
+  </path>
+
+  <!-- Main Title -->
+  <text x="600" y="115" 
+    font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" 
+    font-size="52" font-weight="900" 
+    text-anchor="middle" 
+    fill="#ffffff"
+    filter="url(#glow)"
+    letter-spacing="1">GenAI &amp; Agentic Mastery</text>
+
+  <!-- Subtitle -->
+  <text x="600" y="158" 
+    font-family="'Segoe UI', Helvetica, Arial, sans-serif" 
+    font-size="16" font-weight="400"
+    text-anchor="middle" 
+    fill="#a0e4ff"
+    letter-spacing="2">LangChain · LangGraph · RAG · Deep Agents · LLM Evaluation</text>
+
+  <!-- Decorative line -->
+  <line x1="350" y1="175" x2="850" y2="175" stroke="#00d4ff" stroke-width="1" opacity="0.4"/>
+  <circle cx="600" cy="175" r="3" fill="#00d4ff" opacity="0.8"/>
+</svg>

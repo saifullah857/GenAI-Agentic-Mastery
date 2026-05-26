@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a1a,30:0d1b4b,60:0a2a6b,100:00d4ff&height=260&section=header&text=GenAI%20%26%20Agentic%20Mastery&fontSize=54&fontColor=ffffff&fontAlignY=40&desc=LangChain%20%7C%20LangGraph%20%7C%20RAG%20%7C%20Deep%20Agents%20%7C%20LLM%20Evaluation&descAlignY=60&descSize=18&descColor=a0e4ff&animation=twinkling" width="100%" />
+<img src="assets/header.svg" width="100%" />
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2500&pause=1000&color=00D4FF&background=00000000&center=true&vCenter=true&multiline=false&width=750&lines=🤖+Exploring+Generative+AI+%26+Agentic+Systems;🔗+LangChain+%7C+LangGraph+%7C+RAG+Pipelines;🧠+Deep+Agents+%7C+Guardrails+%7C+LLM+Evaluation;🚀+10%2B+Hour+Structured+Learning+Journey" alt="Typing SVG" />
+<img src="assets/typing.svg" alt="Typing Animation" />
 
 <br/><br/>
 
@@ -365,6 +365,7 @@ jupyter lab
 ├── 📊 llm_evaluation/     ← RAGAS, LangSmith, DeepEval
 ├── 🔀 llm_gateways/       ← LiteLLM, Docker setup
 │
+├── 🖼️  assets/             ← header.svg, typing.svg, footer.svg
 ├── 📝 notes/              ← personal learning notes per module
 ├── .env.example
 ├── requirements.txt
@@ -439,6 +440,6 @@ git push origin feature/your-idea
 
 **⭐ Star this repo if it helps your learning journey!**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,50:0a2a6b,100:0a0a1a&height=140&section=footer&animation=twinkling" width="100%" />
+<img src="assets/footer.svg" width="100%" />
 
 </div>

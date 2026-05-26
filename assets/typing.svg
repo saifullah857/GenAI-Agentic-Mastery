@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 750 50" width="750" height="50">
+  <defs>
+    <style>
+      .typing-text {
+        font-family: 'Fira Code', 'Courier New', monospace;
+        font-size: 18px;
+        font-weight: 700;
+        fill: #00D4FF;
+      }
+      /* Line 1 */
+      #line1 { animation: showHide1 10s infinite; }
+      /* Line 2 */
+      #line2 { animation: showHide2 10s infinite; }
+      /* Line 3 */
+      #line3 { animation: showHide3 10s infinite; }
+      /* Line 4 */
+      #line4 { animation: showHide4 10s infinite; }
+
+      @keyframes showHide1 {
+        0%,5% { opacity:0 } 10%,22% { opacity:1 } 25%,100% { opacity:0 }
+      }
+      @keyframes showHide2 {
+        0%,27% { opacity:0 } 32%,47% { opacity:1 } 50%,100% { opacity:0 }
+      }
+      @keyframes showHide3 {
+        0%,52% { opacity:0 } 57%,72% { opacity:1 } 75%,100% { opacity:0 }
+      }
+      @keyframes showHide4 {
+        0%,77% { opacity:0 } 82%,95% { opacity:1 } 98%,100% { opacity:0 }
+      }
+
+      .cursor {
+        animation: blink 0.8s step-end infinite;
+        fill: #00D4FF;
+        font-family: 'Fira Code', monospace;
+        font-size: 18px;
+        font-weight: 700;
+      }
+      @keyframes blink {
+        0%,100% { opacity:1 } 50% { opacity:0 }
+      }
+    </style>
+  </defs>
+
+  <rect width="750" height="50" fill="transparent"/>
+
+  <text x="375" y="33" text-anchor="middle">
+    <tspan id="line1" class="typing-text">🤖 Exploring Generative AI &amp; Agentic Systems</tspan>
+    <tspan id="line2" class="typing-text">🔗 LangChain | LangGraph | RAG Pipelines</tspan>
+    <tspan id="line3" class="typing-text">🧠 Deep Agents | Guardrails | LLM Evaluation</tspan>
+    <tspan id="line4" class="typing-text">🚀 10+ Hour Structured Learning Journey</tspan>
+  </text>
+</svg>
