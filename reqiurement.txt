@@ -4,3 +4,8 @@ langchain-openai
 python-dotenv
 langchain-groq
 langchain-google-genai
+langgraph
+langsmith
+pypdf
+pymupdf
+langchain_core
