@@ -1,0 +1,5 @@
+Artificial Intelligence is transforming industries by automating tasks and improving decision-making.
+Machine Learning is a subset of AI that enables systems to learn from data without explicit programming.
+Retrieval-Augmented Generation (RAG) combines information retrieval with large language models to provide accurate answers.
+RAG systems retrieve relevant documents from a knowledge base before generating responses.
+This approach reduces hallucinations and improves the reliability of AI-generated content.

@@ -9,3 +9,6 @@ langsmith
 pypdf
 pymupdf
 langchain_core
+chromadb
+sentence-transformers 
+langchain_text_splitters
