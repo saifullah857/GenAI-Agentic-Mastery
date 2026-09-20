@@ -12,3 +12,5 @@ langchain_core
 chromadb
 sentence-transformers 
 langchain_text_splitters
+deepagents
+tavily-python
